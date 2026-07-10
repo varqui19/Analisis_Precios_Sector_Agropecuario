@@ -1,11 +1,7 @@
 # 📊 Análisis de Precios del Sector Agropecuario (SIPSA - DANE)
 
 Este proyecto automatiza la extracción, consolidación y modelado dimensional de los reportes del Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA) publicados por el DANE en Colombia, transformando datos planos en un ecosistema de inteligencia de negocios.
-> ⚠️ **Nota sobre los datos:** Este proyecto utiliza datos **sintéticos/simulados**, 
-> generados mediante un script que modela comportamientos biológicos y de mercado 
-> realistas (curvas de producción láctea, estacionalidad de precios, etc.). 
-> No corresponden a información real de una hacienda operativa; el objetivo es 
-> demostrar competencias de modelado de datos, arquitectura de Data Warehouse y EDA.
+
 ---
 ### 🖼️ Vista Previa del Dashboard
 <img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/de412f41-7382-4d2f-98da-664fb17e0348" />
