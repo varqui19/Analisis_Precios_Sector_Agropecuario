@@ -34,8 +34,8 @@ El informe ejecutivo cuenta con una barra de navegación interna estructurada en
 Puedes explorar el ecosistema de datos interactivo publicado en tiempo real y navegar por las pantallas gerenciales haciendo clic en el siguiente enlace:
 
 👉 **[Ver Dashboard Interactivo en Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiZDZkNDZhYjItOGMwZi00MzI3LTgzZDEtZTIzZGY1M2YxNWNjIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**
-
-<<<<<<< HEAD
+=======
+*Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
 *Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
 =======
 *Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
