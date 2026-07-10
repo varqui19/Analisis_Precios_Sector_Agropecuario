@@ -35,4 +35,8 @@ Puedes explorar el ecosistema de datos interactivo publicado en tiempo real y na
 
 👉 **[Ver Dashboard Interactivo en Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiZDZkNDZhYjItOGMwZi00MzI3LTgzZDEtZTIzZGY1M2YxNWNjIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**
 
+<<<<<<< HEAD
 *Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
+=======
+*Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
+>>>>>>> 178ae587ff2cc98deab69ea5795cfa41f4695e49
