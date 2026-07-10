@@ -5,6 +5,9 @@ Este proyecto automatiza la extracción, limpieza, consolidación y modelado de 
 A través de un script en **Python**, se procesan los reportes mensuales en formato Excel para generar un **Modelo Estrella** optimizado para su visualización interactiva en **Power BI**, permitiendo auditorías comerciales, operativas y financieras detalladas.
 
 ---
+## 🖼️ Vista Previa del Dashboard
+<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/de412f41-7382-4d2f-98da-664fb17e0348" />
+
 
 ## Estructura del Modelo de Datos (Modelo Estrella)
 
